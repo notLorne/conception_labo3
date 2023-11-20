@@ -14,7 +14,7 @@ et de la logique sous-jacente à certain choix fait par des membres individuelle
 - Changer la version du diagramme dans la case en haut à gauche lors de chaque commit de cette manière à saura le nombre d'itération 
 faite sur le diagramme. Par exemple, 2 itérations sur le diagramme de classe, le fait passer de 0 à 0.2
 
-## Cas d'utilisation
+## Diagramme de cas d'utilisation
 - Un diagramme de cas d'utilisation n'a pas vocation à entrer dans les détails. 
 Par exemple, ne vous attendez pas à ce qu'il illustre l'ordre dans lequel les étapes sont exécutées.
 -  Ici, il est important de se concentrer sur l'interaction entre l'utilisateur, le logiciel de réseau social, et d'autres acteurs potentiels. 
@@ -24,6 +24,9 @@ Partager des expériences, Personnaliser son expérience utilisateur.
 - Dans le scénario Découverte, la décision a été prise de ne pas mettre Trouver des utilisateurs à proximité et Trouver des événement à proximité 
 comme extension d'Activer la localisation pour permettre de pointer un endroit spécifique sur la carte et non seulement l'endroit où l'on ce trouve 
 actuellement.
+
+## Diagramme d'activités
+
 
 ## Diagrammes de classe
 - Une ligne avec une flèche pleine pointant de GestionnaireDeCommerce vers Utilisateur montre qu'il s'agit d'une sous-classe

@@ -16,8 +16,9 @@
 
 ## LucidChart 
 
-- Les diagrammes UML demandés pour le laboratoire et auquel le présent document fait référence sont disponible via le lien suivant:
-https://lucid.app/lucidchart/invitations/accept/inv_84ddd9c0-a9d3-4085-9b3d-df4dc753b47b
+- Les diagrammes UML demandés pour le laboratoire et auquels le présent document fait référence sont disponible via les liens suivants:
+    - Partager: https://lucid.app/lucidchart/invitations/accept/inv_84ddd9c0-a9d3-4085-9b3d-df4dc753b47b
+    - Publier (lecture seule aucun compte LucidChart nécessaire): https://lucid.app/documents/view/8efaad6e-3c28-4737-be0e-46446927664c
 
 - Les diagrammes UML ont été conçus avec le logiciel Drawio. 
 

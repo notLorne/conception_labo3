@@ -164,6 +164,7 @@ Les cas d'utilisation doivent illustrer comment l'utilisateur utilise les foncti
 
 
 ## Diagrammes de classe
+- Comme référence, nous avons utilisé la documentation LucidChart: https://www.lucidchart.com/pages/fr/diagramme-de-classes-uml
 - Une ligne avec une flèche pleine pointant de GestionnaireDeCommerce vers Utilisateur montre qu'il s'agit d'une sous-classe
 - La flêche avec le losange noir du côté Utilisateur et le 1 du côté Preferences indique que sans un utilisateur, il ne peux y avoir de Preference. 
 Et qu'il n'y a qu'une seule instance de Preference par instance d'utilisateur
